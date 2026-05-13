@@ -70,7 +70,7 @@ Compliance auditing, device posture reporting, and automated remediation scripts
 ## 📫 Connect With Me
 
 - **LinkedIn:** (https://www.linkedin.com/in/isaac-beitler-599490176/) 
-- **GitHub:** [github.com/isaac-beitler](https://github.com/isaac-beitler)
+- **GitHub:** [github.com/ikebeitler](https://github.com/ikebeitler)
 
 ---
 
